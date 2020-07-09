@@ -1,0 +1,15 @@
+export const Images = {
+    BlackX : require('./Image/BlackX.png'),
+    WhiteX : require('./Image/WhiteX.png'),
+    Time : require('./Image/Time.png'),
+    SetUp : require('./Image/SetUp.png'),
+    Tint_white : require('./Image/Tint_white.png'),
+    Icon : require('./Image/Icon.png'),
+    Brown_v1 : require('./Image/Brown_v1.png'),
+    Check : require('./Image/Check.png'),
+    Check_safe : require('./Image/Check_safe.png'),
+    Check_safe1 : require('./Image/Check_safe1.png'),
+    header : require('./Image/header.png'),
+    Home : require('./Image/Home.png'),
+    Pin : require('./Image/Pin.png'),
+}
